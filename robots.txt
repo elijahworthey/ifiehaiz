@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seifahyiko.ohbm-openscience.org/sitemap.xml
